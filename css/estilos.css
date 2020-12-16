@@ -1,0 +1,68 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+header{
+    position: relative;
+    min-width:1400px ;
+    height: 45px;
+    background-color: black;
+}
+#numero{
+    color: white;
+    margin-left: 40px;
+    line-height: 45px;
+}
+.redes{
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    line-height: 35px;
+    background-color: white;
+    border-radius: 100%;
+}
+#icono1{
+position: absolute;
+top: 5px;
+right: 260px;
+}
+#icono2{
+    position: absolute;
+    top: 5px;
+    right: 210px;
+}
+nav{
+    position: relative;
+    margin: 15px auto;
+    width: 1300px ;
+    height: 100px;
+
+}
+#logo{
+    position: absolute;
+    width: 170px;
+    height: 80px;
+    left: 70px;
+    top: 10px;
+}
+#logo2{
+    position: absolute;
+    width: 100px;
+    height: 80px;
+    left: 260px;
+    top: 10px;
+}
+
+nav ul li{
+    float: right;
+    margin-top: 30px;
+    margin-right: 5px;
+    width: 180px;
+    height: 40px;
+    font-size: 22px;
+    text-align: center;
+    line-height: 40px;
+    font-family: 'Anton', sans-serif;
+
+}
